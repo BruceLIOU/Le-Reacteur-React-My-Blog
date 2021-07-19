@@ -1,5 +1,6 @@
 /* Other rules */
 .App {
+    font-family: 'Roboto', sans-serif;
     width: 100%;
     background-color: #E5E5E5;
 }
@@ -132,6 +133,7 @@ footer{
     width: 100%;
     margin: 0 auto;
     margin-bottom: 0px;
+    margin-top: 60px;
     line-height: 63px;
     text-align: center;
     font-family: 'Roboto', sans-serif;
